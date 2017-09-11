@@ -1,0 +1,28 @@
+{
+  "name": "scrape",
+  "version": "1.0.0",
+  "description": "Simple JS library for scraping lyrics",
+  "main": "require('scrape')",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tsmanikandan/Scrape.js.git"
+  },
+  "keywords": [
+    "js",
+    "scrape",
+    "lyrics"
+  ],
+  "author": "Manikandan Sundararajan <mtiruman@buffalo.edu> (http://tsmanikandan.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tsmanikandan/Scrape.js/issues"
+  },
+  "homepage": "https://github.com/tsmanikandan/Scrape.js#readme",
+  "dependencies": {
+    "http": "0.0.0",
+    "xmlhttprequest": "1.8.0"
+  }
+}
